@@ -1,2 +1,2 @@
 # ByteCoin
-ByteCoinPrices build by swift
+ByteCoin Prices build by swift
